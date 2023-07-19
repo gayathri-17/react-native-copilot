@@ -25,7 +25,7 @@ export const styles = StyleSheet.create({
     position: "absolute",
     paddingTop: 15,
     paddingHorizontal: 15,
-    backgroundColor: "rgba(0, 0, 0, 0.7)",
+    backgroundColor: "#fff",
     borderRadius: 3,
     overflow: "hidden",
   },

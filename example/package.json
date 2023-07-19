@@ -15,9 +15,11 @@
     "expo-status-bar": "~1.4.4",
     "expo-updates": "~0.16.3",
     "react": "18.2.0",
+    "react-dom": "^18.2.0",
     "react-native": "0.71.3",
-    "react-native-copilot": "*",
-    "react-native-svg": "13.4.0"
+    "react-native-svg": "13.4.0",
+    "react-native-web": "~0.18.11",
+    "react_native_initial_app_tour": "^1.0.0"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",
