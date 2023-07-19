@@ -1,6 +1,6 @@
 {
-  "name": "react-native-copilot",
-  "version": "3.2.1",
+  "name": "react_native_initial_app_tour",
+  "version": "1.0.0",
   "description": "Make an interactive step by step tour guide for you react-native app",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mohebifar/react-native-copilot.git"
+    "url": "git+https://github.com/gayathri-17/react-native-copilot.git"
   },
   "keywords": [
     "react-native",
@@ -29,12 +29,12 @@
   "files": [
     "dist"
   ],
-  "author": "Mohamad Mohebifar <mohamad@mohebifar.com>",
-  "license": "MIT",
+  "author": "Gayathri",
+  "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mohebifar/react-native-copilot/issues"
+    "url": "https://github.com/gayathri-17/"
   },
-  "homepage": "https://github.com/mohebifar/react-native-copilot#readme",
+  "homepage": "https://github.com/gayathri-17/react-native-copilot.git",
   "devDependencies": {
     "@testing-library/jest-native": "^5.4.2",
     "@testing-library/react-native": "^12.0.0",
@@ -77,5 +77,8 @@
   },
   "publishConfig": {
     "access": "public"
+  },
+  "directories": {
+    "example": "example"
   }
 }
