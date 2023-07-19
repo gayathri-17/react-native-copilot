@@ -25,7 +25,7 @@ export const styles = StyleSheet.create({
     position: "absolute",
     paddingTop: 15,
     paddingHorizontal: 15,
-    backgroundColor: "#fff",
+    backgroundColor: "rgba(0, 0, 0, 0.7)",
     borderRadius: 3,
     overflow: "hidden",
   },
@@ -47,7 +47,7 @@ export const styles = StyleSheet.create({
     borderWidth: 2,
     borderRadius: STEP_NUMBER_RADIUS,
     borderColor: "#FFFFFF",
-    backgroundColor: "#27ae60",
+    backgroundColor: "#ff5151",
   },
   stepNumberText: {
     fontSize: 10,
@@ -58,7 +58,7 @@ export const styles = StyleSheet.create({
     padding: 10,
   },
   buttonText: {
-    color: "#27ae60",
+    color: "#ff5151",
   },
   bottomBar: {
     marginTop: 10,
